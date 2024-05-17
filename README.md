@@ -61,7 +61,7 @@ Ja, dit ziet er inderdaad uit alsof 'ie gemaakt is in 1998. Dat zullen we even m
 
 1. Zorg ervoor dat er "Scientific Research Article" in het tabblad komt te staan.
 2. Gebruik semantische elementen om het artikel in te delen in duidelijke gebieden. Let hierbij goed op welke
-   heading-tags je gebruikt (`<h1>`, `<h2>`, `<h3>`, `<h4>` etc.) en voeg de tekst in op de juiste plaatsen.
+   heading-tags je gebruikt (`<h1>`, `<h2>`, `<h2>`, `<h4>` etc.) en voeg de tekst in op de juiste plaatsen.
 3. Kijk goed naar de inhoud van de tekst om te ontdekken welke bijzonderheden daarin staan. Denk bijvoorbeeld aan het
    gebruik
    van `<strong>`, `<em>`, `<time>`, `<cite>`, `<blockquote>`, `<code>`, `<samp>` en `<sub>`.
